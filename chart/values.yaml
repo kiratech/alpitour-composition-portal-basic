@@ -1,6 +1,8 @@
 overview:
   enabled: true
-  text: This is going to be the overview text
+  text:
+  - paragraph1
+  - paragraph2
 compositionstatus:
   enabled: true
 applicationstatus:
